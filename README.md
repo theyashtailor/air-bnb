@@ -46,3 +46,5 @@ The datasets were collected from publicly available Airbnb repositories and incl
 
 ### Dashboard:
 ![image](https://github.com/user-attachments/assets/7ea3ee5c-5096-4272-bac4-97cb9208bf3f)
+
+Download Air-Bnb dashboard from [here](https://github.com/theyashtailor/air-bnb/blob/main/Final_Project_Airbnb.twb)
